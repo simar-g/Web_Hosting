@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Web_Hosting/static/css/main.3910a9ba.css",
+    "main.js": "/Web_Hosting/static/js/main.f70441a3.js",
+    "static/js/787.b5a7af4a.chunk.js": "/Web_Hosting/static/js/787.b5a7af4a.chunk.js",
+    "static/media/add-button.png": "/Web_Hosting/static/media/add-button.e701f3f7b746b35afd62.png",
+    "static/media/round_Add.png": "/Web_Hosting/static/media/round_Add.fb509f23bcb3b8386ec2.png",
+    "static/media/raspberryicon.png": "/Web_Hosting/static/media/raspberryicon.38d7d5e14055b1d7653d.png",
+    "static/media/better_add.png": "/Web_Hosting/static/media/better_add.a2722edfdbe3c1199fe2.png",
+    "static/media/magnify.png": "/Web_Hosting/static/media/magnify.3fc52293e8782eb33fc1.png",
+    "index.html": "/Web_Hosting/index.html",
+    "main.3910a9ba.css.map": "/Web_Hosting/static/css/main.3910a9ba.css.map",
+    "main.f70441a3.js.map": "/Web_Hosting/static/js/main.f70441a3.js.map",
+    "787.b5a7af4a.chunk.js.map": "/Web_Hosting/static/js/787.b5a7af4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3910a9ba.css",
+    "static/js/main.f70441a3.js"
+  ]
+}
